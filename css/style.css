@@ -121,4 +121,27 @@ ul li img {
     color: #737272;
 }
 
-/* ============== my plans section =============== */
+/* ============== call now section =============== */
+.call-now {
+
+    margin: 130px 230px;
+    background-image: linear-gradient(to right, #005FAC, rgba(0, 0, 0, 0)), url(/images/watch.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+}
+
+.positive-mind {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    padding-left: 65px;
+    width: 460px;
+}
+
+.positive-mind-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
