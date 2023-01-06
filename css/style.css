@@ -111,7 +111,7 @@ ul li img {
     font-weight: 700;
     font-size: 30px;
     color: #151414;
-    margin-top: 24px;
+    margin-top: 20px;
     margin-bottom: 16px;
 }
 
@@ -144,4 +144,58 @@ ul li img {
     font-size: 40px;
     color: #FFFFFF;
     margin-bottom: 24px;
+}
+
+/* footer section */
+
+.footer {
+    padding: 130px 230px;
+    background-color: #151414;
+    color: #FFFFFF;
+    display: flex;
+    gap: 330px;
+    justify-content: space-between;
+}
+
+.add-title {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.add-description {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 20px;
+    line-height: 26px;
+}
+
+.social-link {
+    display: flex;
+    gap: 16px;
+    margin-top: 30px;
+}
+
+.subscribe {}
+
+.sub-title {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.email-form {
+    font-weight: 400;
+    font-size: 18px;
+    padding: 24px;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-bottom: 24px;
+    border-radius: 8px;
+    background: none;
+    width: 240px;
+}
+
+.sub-btn {
+    background-color: #005FAC;
+    color: #FFFFFF;
 }
