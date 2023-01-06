@@ -94,3 +94,31 @@ ul li {
 ul li img {
     margin-right: 10px;
 }
+
+/* ============== my plans section =============== */
+.my-plans {
+    padding: 0 230px;
+    text-align: center;
+}
+
+.plans-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.plan-description {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
+/* ============== my plans section =============== */
