@@ -9,7 +9,7 @@ body {
 
 /* ============== header section =============== */
 .header {
-    background-image: url(./images/banner/banner3.png);
+    background-image: url(../images/banner/banner3.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding-right: 230px;
@@ -125,7 +125,7 @@ ul li img {
 .call-now {
 
     margin: 130px 230px;
-    background-image: linear-gradient(to right, #005FAC, rgba(0, 0, 0, 0)), url(/images/watch.png);
+    background-image: linear-gradient(to right, #005FAC, rgba(0, 0, 0, 0)), url(../images/watch.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
